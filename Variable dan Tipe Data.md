@@ -37,6 +37,15 @@ Boolean adalah tipe data yang digunakan untuk menyatakan ya atau tidak, true ata
 var started = TRUE;
 ```
 
+## Function
+Function adalah potongan potongan kode-kode instruksi yang dapat dipanggil berulang-ulang.
+```javascript
+var apakahGanjil = function(nilai){
+        return nilai % 2 == 0;
+    };
+```
+
+
 ## Array
 Array adalah tipe data yang berupa kontainer untuk menampung satu atau lebih data.
 Array dapat menmpung semua tipe data yang terdapat dalam javascript.

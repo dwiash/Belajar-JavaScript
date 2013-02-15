@@ -43,7 +43,14 @@ Array dapat menmpung semua tipe data yang terdapat dalam javascript.
 ```javascript
 var hari = ["Senin","Selasa","Rabu","Kamis","Jumat","Sabtu","Minggu"];
 var nilai = [5,7,8,2.4,4.5,10];
-var mix = ["gfyty$^%",12.3, NULL, TRUE, FALSE, ["a","b","C"] ];
+var mix = [
+    "gfyty$^%",
+    12.3,
+    NULL,
+    TRUE,
+    FALSE,
+    ["a","b","C"]
+    ];
 ```
 
 ## Object
